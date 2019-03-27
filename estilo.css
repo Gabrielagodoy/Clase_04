@@ -5,3 +5,12 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   padding-top: 3.5rem;
 }
+
+.jumbotron{
+  background:
+  linear-gradient(to bottom, rgba(200,200,200,0.8)0%, rgba(200,200,200,1)100%),
+  url("http://www.elefete.com/wp-content/uploads/2017/08/girasoles-Copiar.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
